@@ -2,42 +2,42 @@
 
 Pull requests I've had merged into other people's projects, reviewed and merged by their maintainers.
 
-**41 merged PRs** across **22 organizations** and **28 repositories** with **422.2k** combined GitHub stars.
+**41 merged PRs** across **22 organizations** and **28 repositories** with **423.7k** combined GitHub stars.
 
 ## Merged
 
 | Project | Stars | Pull request | Merged |
 |---|---|---|---|
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 78.2k | [#6135 fix: avoid blocking the event loop with time.sleep in async load_checkpoint](https://github.com/unslothai/unsloth/pull/6135) | 2026-06-11 |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 67.4k | [#5302 fix: replace mutable default arguments with `None` sentinels (B006)](https://github.com/mem0ai/mem0/pull/5302) | 2026-06-04 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.8k | [#8186 fix: use async Attachment.read() instead of blocking requests.get in Discord client](https://github.com/agno-agi/agno/pull/8186) | 2026-06-01 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.8k | [#8161 fix: close audio file handle in `OpenAITools.transcribe_audio` (resource leak)](https://github.com/agno-agi/agno/pull/8161) | 2026-06-01 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.8k | [#8158 fix: replace blocking `time.sleep` with `await asyncio.sleep` in `_async_create_collection_and_scope`](https://github.com/agno-agi/agno/pull/8158) | 2026-05-30 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.8k | [#8138 cookbook: fix duplicate word typos in image agent and supabase examples](https://github.com/agno-agi/agno/pull/8138) | 2026-05-28 |
-| [psf/black](https://github.com/psf/black) | 41.9k | [#5432 Fix unclosed file handles in Converter.parse_graminit_h/_c](https://github.com/psf/black/pull/5432) | 2026-09-24 |
-| [pydantic/pydantic](https://github.com/pydantic/pydantic) | 29.1k | [#13858 Fix dead isinstance check in `_decorator_infos_for_class()`](https://github.com/pydantic/pydantic/pull/13858) | 2026-09-25 |
-| [pydantic/pydantic](https://github.com/pydantic/pydantic) | 29.1k | [#13239 Fix docstring typo](https://github.com/pydantic/pydantic/pull/13239) | 2026-06-01 |
-| [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23.2k | [#9667 feat(file_browser): add filter param for regex and callable filtering](https://github.com/marimo-team/marimo/pull/9667) | 2026-06-01 |
-| [huggingface/peft](https://github.com/huggingface/peft) | 21.8k | [#3271 DOC: fix adapter_names parameter name in set_requires_grad docstrings](https://github.com/huggingface/peft/pull/3271) | 2026-06-23 |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20.7k | [#6189 Avoid mutable default argument in `process_tool_calls`](https://github.com/pydantic/pydantic-ai/pull/6189) | 2026-07-02 |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 78.6k | [#6135 fix: avoid blocking the event loop with time.sleep in async load_checkpoint](https://github.com/unslothai/unsloth/pull/6135) | 2026-06-11 |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 67.8k | [#5302 fix: replace mutable default arguments with `None` sentinels (B006)](https://github.com/mem0ai/mem0/pull/5302) | 2026-06-04 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.9k | [#8186 fix: use async Attachment.read() instead of blocking requests.get in Discord client](https://github.com/agno-agi/agno/pull/8186) | 2026-06-01 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.9k | [#8161 fix: close audio file handle in `OpenAITools.transcribe_audio` (resource leak)](https://github.com/agno-agi/agno/pull/8161) | 2026-06-01 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.9k | [#8158 fix: replace blocking `time.sleep` with `await asyncio.sleep` in `_async_create_collection_and_scope`](https://github.com/agno-agi/agno/pull/8158) | 2026-05-30 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42.9k | [#8138 cookbook: fix duplicate word typos in image agent and supabase examples](https://github.com/agno-agi/agno/pull/8138) | 2026-05-28 |
+| [psf/black](https://github.com/psf/black) | 42k | [#5432 Fix unclosed file handles in Converter.parse_graminit_h/_c](https://github.com/psf/black/pull/5432) | 2026-09-24 |
+| [pydantic/pydantic](https://github.com/pydantic/pydantic) | 29.2k | [#13858 Fix dead isinstance check in `_decorator_infos_for_class()`](https://github.com/pydantic/pydantic/pull/13858) | 2026-09-25 |
+| [pydantic/pydantic](https://github.com/pydantic/pydantic) | 29.2k | [#13239 Fix docstring typo](https://github.com/pydantic/pydantic/pull/13239) | 2026-06-01 |
+| [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23.3k | [#9667 feat(file_browser): add filter param for regex and callable filtering](https://github.com/marimo-team/marimo/pull/9667) | 2026-06-01 |
+| [huggingface/peft](https://github.com/huggingface/peft) | 21.9k | [#3271 DOC: fix adapter_names parameter name in set_requires_grad docstrings](https://github.com/huggingface/peft/pull/3271) | 2026-06-23 |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20.9k | [#6189 Avoid mutable default argument in `process_tool_calls`](https://github.com/pydantic/pydantic-ai/pull/6189) | 2026-07-02 |
 | [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) | 15.1k | [#11761 fix(azure): read Flexible Server log retention from `logfiles.retention_days` (fixes #11757)](https://github.com/prowler-cloud/prowler/pull/11761) | 2026-07-07 |
-| [grokability/snipe-it](https://github.com/grokability/snipe-it) | 15k | [#19514 Fixed --force not skipping the PHP version prompt in ldap:troubleshoot](https://github.com/grokability/snipe-it/pull/19514) | 2026-08-19 |
+| [grokability/snipe-it](https://github.com/grokability/snipe-it) | 15.1k | [#19514 Fixed --force not skipping the PHP version prompt in ldap:troubleshoot](https://github.com/grokability/snipe-it/pull/19514) | 2026-08-19 |
 | [redis/redis-py](https://github.com/redis/redis-py) | 13.7k | [#4345 Fix connection leak in utils.pipeline() on exception](https://github.com/redis/redis-py/pull/4345) | 2026-09-25 |
-| [secdev/scapy](https://github.com/secdev/scapy) | 12.6k | [#5204 sendpfast: report a missing tcpreplay instead of UnboundLocalError](https://github.com/secdev/scapy/pull/5204) | 2026-09-28 |
+| [secdev/scapy](https://github.com/secdev/scapy) | 12.7k | [#5204 sendpfast: report a missing tcpreplay instead of UnboundLocalError](https://github.com/secdev/scapy/pull/5204) | 2026-09-28 |
 | [huggingface/accelerate](https://github.com/huggingface/accelerate) | 9.9k | [#4051 DOC: document missing parameters in load_accelerator_state, find_executable_batch_size, and send_to_device](https://github.com/huggingface/accelerate/pull/4051) | 2026-06-09 |
 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | 9.6k | [#5055 fix: avoid blocking the event loop in async update_model_type](https://github.com/xorbitsai/inference/pull/5055) | 2026-06-20 |
 | [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) | 8.1k | [#1373 Remove the query logger when the query_logger() block raises](https://github.com/MagicStack/asyncpg/pull/1373) | 2026-09-29 |
 | [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | 4k | [#4289 [Docs] Document missing parameters in lfs, hf_file_system, and repocard_data](https://github.com/huggingface/huggingface_hub/pull/4289) | 2026-05-28 |
-| [celery/kombu](https://github.com/celery/kombu) | 3.1k | [#2683 Don't mask open errors in the filesystem transport](https://github.com/celery/kombu/pull/2683) | 2026-09-30 |
-| [celery/kombu](https://github.com/celery/kombu) | 3.1k | [#2680 Track unacked Kafka messages per QoS instance](https://github.com/celery/kombu/pull/2680) | 2026-09-30 |
-| [celery/kombu](https://github.com/celery/kombu) | 3.1k | [#2679 fix(azurestoragequeues): scope queue name cache to Connection](https://github.com/celery/kombu/pull/2679) | 2026-09-30 |
-| [celery/kombu](https://github.com/celery/kombu) | 3.1k | [#2681 Scope the zookeeper queue cache to the channel](https://github.com/celery/kombu/pull/2681) | 2026-09-30 |
-| [celery/kombu](https://github.com/celery/kombu) | 3.1k | [#2676 fix(sqs): scope queue cache, noack set and predefined clients to Connection](https://github.com/celery/kombu/pull/2676) | 2026-09-27 |
+| [celery/kombu](https://github.com/celery/kombu) | 3.2k | [#2683 Don't mask open errors in the filesystem transport](https://github.com/celery/kombu/pull/2683) | 2026-09-30 |
+| [celery/kombu](https://github.com/celery/kombu) | 3.2k | [#2680 Track unacked Kafka messages per QoS instance](https://github.com/celery/kombu/pull/2680) | 2026-09-30 |
+| [celery/kombu](https://github.com/celery/kombu) | 3.2k | [#2679 fix(azurestoragequeues): scope queue name cache to Connection](https://github.com/celery/kombu/pull/2679) | 2026-09-30 |
+| [celery/kombu](https://github.com/celery/kombu) | 3.2k | [#2681 Scope the zookeeper queue cache to the channel](https://github.com/celery/kombu/pull/2681) | 2026-09-30 |
+| [celery/kombu](https://github.com/celery/kombu) | 3.2k | [#2676 fix(sqs): scope queue cache, noack set and predefined clients to Connection](https://github.com/celery/kombu/pull/2676) | 2026-09-27 |
 | [pymodbus-dev/pymodbus](https://github.com/pymodbus-dev/pymodbus) | 2.8k | [#3036 Give each ModbusDeviceIdentification its own data](https://github.com/pymodbus-dev/pymodbus/pull/3036) | 2026-09-28 |
 | [svinota/pyroute2](https://github.com/svinota/pyroute2) | 1.1k | [#1492 plan9: keep fids per session and inodes per filesystem](https://github.com/svinota/pyroute2/pull/1492) | 2026-10-02 |
-| [joblib/loky](https://github.com/joblib/loky) | 629 | [#668 Report os.pipe() errors from Popen._launch instead of UnboundLocalError](https://github.com/joblib/loky/pull/668) | 2026-09-30 |
-| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 465 | [#594 fix(geo): report a missing member in *BYMEMBER searches instead of crashing](https://github.com/cunla/fakeredis-py/pull/594) | 2026-09-30 |
-| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 465 | [#593 fix(bitmap): pad BITOP operands and treat missing keys as empty](https://github.com/cunla/fakeredis-py/pull/593) | 2026-09-30 |
+| [joblib/loky](https://github.com/joblib/loky) | 630 | [#668 Report os.pipe() errors from Popen._launch instead of UnboundLocalError](https://github.com/joblib/loky/pull/668) | 2026-09-30 |
+| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 466 | [#594 fix(geo): report a missing member in *BYMEMBER searches instead of crashing](https://github.com/cunla/fakeredis-py/pull/594) | 2026-09-30 |
+| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 466 | [#593 fix(bitmap): pad BITOP operands and treat missing keys as empty](https://github.com/cunla/fakeredis-py/pull/593) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 434 | [#466 Raise ValueError when using a closed Queue](https://github.com/celery/billiard/pull/466) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 434 | [#467 Refuse to close a Process that is still running](https://github.com/celery/billiard/pull/467) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 434 | [#465 Reject a non-positive maxtasksperchild in Pool](https://github.com/celery/billiard/pull/465) | 2026-09-30 |
@@ -104,4 +104,4 @@ Pull requests I've had merged into other people's projects, reviewed and merged 
 | [huggingface/datasets](https://github.com/huggingface/datasets) | [#8223 DOC: document missing save_infos and max_depth parameters](https://github.com/huggingface/datasets/pull/8223) | 2026-05-27 |
 | [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | [#2964 fix(logging): use RANK env var in log_rank_zero before dist init](https://github.com/meta-pytorch/torchtune/pull/2964) | 2026-05-22 |
 
-<sub>Updated 2026-10-19 from the GitHub API by `update.py`.</sub>
+<sub>Updated 2026-10-26 from the GitHub API by `update.py`.</sub>
