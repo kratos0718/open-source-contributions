@@ -5,7 +5,7 @@ Runs weekly from GitHub Actions; can also be run locally with GITHUB_TOKEN set.
 """
 
 from __future__ import annotations
-
+ 
 import json
 import os
 import urllib.parse
