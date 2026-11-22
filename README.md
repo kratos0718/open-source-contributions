@@ -2,30 +2,30 @@
 
 Pull requests I've had merged into other people's projects, reviewed and merged by their maintainers.
 
-**52 merged PRs** across **31 organizations** and **37 repositories** with **486.8k** combined GitHub stars.
+**53 merged PRs** across **32 organizations** and **38 repositories** with **487.6k** combined GitHub stars.
 
 ## Merged
 
 | Project | Stars | Pull request | Merged |
 |---|---|---|---|
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79.8k | [#6135 fix: avoid blocking the event loop with time.sleep in async load_checkpoint](https://github.com/unslothai/unsloth/pull/6135) | 2026-06-11 |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79.9k | [#6135 fix: avoid blocking the event loop with time.sleep in async load_checkpoint](https://github.com/unslothai/unsloth/pull/6135) | 2026-06-11 |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 69.3k | [#5302 fix: replace mutable default arguments with `None` sentinels (B006)](https://github.com/mem0ai/mem0/pull/5302) | 2026-06-04 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.2k | [#8186 fix: use async Attachment.read() instead of blocking requests.get in Discord client](https://github.com/agno-agi/agno/pull/8186) | 2026-06-01 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.2k | [#8161 fix: close audio file handle in `OpenAITools.transcribe_audio` (resource leak)](https://github.com/agno-agi/agno/pull/8161) | 2026-06-01 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.2k | [#8158 fix: replace blocking `time.sleep` with `await asyncio.sleep` in `_async_create_collection_and_scope`](https://github.com/agno-agi/agno/pull/8158) | 2026-05-30 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.2k | [#8138 cookbook: fix duplicate word typos in image agent and supabase examples](https://github.com/agno-agi/agno/pull/8138) | 2026-05-28 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.3k | [#8186 fix: use async Attachment.read() instead of blocking requests.get in Discord client](https://github.com/agno-agi/agno/pull/8186) | 2026-06-01 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.3k | [#8161 fix: close audio file handle in `OpenAITools.transcribe_audio` (resource leak)](https://github.com/agno-agi/agno/pull/8161) | 2026-06-01 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.3k | [#8158 fix: replace blocking `time.sleep` with `await asyncio.sleep` in `_async_create_collection_and_scope`](https://github.com/agno-agi/agno/pull/8158) | 2026-05-30 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 43.3k | [#8138 cookbook: fix duplicate word typos in image agent and supabase examples](https://github.com/agno-agi/agno/pull/8138) | 2026-05-28 |
 | [psf/black](https://github.com/psf/black) | 42.2k | [#5432 Fix unclosed file handles in Converter.parse_graminit_h/_c](https://github.com/psf/black/pull/5432) | 2026-09-24 |
 | [jax-ml/jax](https://github.com/jax-ml/jax) | 36.7k | [#42430 Keep the non-sampled dimensions in jax.random.choice when no samples are drawn](https://github.com/jax-ml/jax/pull/42430) | 2026-11-12 |
 | [pydantic/pydantic](https://github.com/pydantic/pydantic) | 29.6k | [#13858 Fix dead isinstance check in `_decorator_infos_for_class()`](https://github.com/pydantic/pydantic/pull/13858) | 2026-09-25 |
 | [pydantic/pydantic](https://github.com/pydantic/pydantic) | 29.6k | [#13239 Fix docstring typo](https://github.com/pydantic/pydantic/pull/13239) | 2026-06-01 |
-| [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23.6k | [#9667 feat(file_browser): add filter param for regex and callable filtering](https://github.com/marimo-team/marimo/pull/9667) | 2026-06-01 |
+| [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23.7k | [#9667 feat(file_browser): add filter param for regex and callable filtering](https://github.com/marimo-team/marimo/pull/9667) | 2026-06-01 |
 | [huggingface/peft](https://github.com/huggingface/peft) | 21.9k | [#3271 DOC: fix adapter_names parameter name in set_requires_grad docstrings](https://github.com/huggingface/peft/pull/3271) | 2026-06-23 |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21.3k | [#6189 Avoid mutable default argument in `process_tool_calls`](https://github.com/pydantic/pydantic-ai/pull/6189) | 2026-07-02 |
 | [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) | 15.3k | [#11761 fix(azure): read Flexible Server log retention from `logfiles.retention_days` (fixes #11757)](https://github.com/prowler-cloud/prowler/pull/11761) | 2026-07-07 |
 | [grokability/snipe-it](https://github.com/grokability/snipe-it) | 15.2k | [#19514 Fixed --force not skipping the PHP version prompt in ldap:troubleshoot](https://github.com/grokability/snipe-it/pull/19514) | 2026-08-19 |
 | [redis/redis-py](https://github.com/redis/redis-py) | 13.7k | [#4345 Fix connection leak in utils.pipeline() on exception](https://github.com/redis/redis-py/pull/4345) | 2026-09-25 |
 | [secdev/scapy](https://github.com/secdev/scapy) | 12.7k | [#5204 sendpfast: report a missing tcpreplay instead of UnboundLocalError](https://github.com/secdev/scapy/pull/5204) | 2026-09-28 |
-| [huggingface/accelerate](https://github.com/huggingface/accelerate) | 9.9k | [#4051 DOC: document missing parameters in load_accelerator_state, find_executable_batch_size, and send_to_device](https://github.com/huggingface/accelerate/pull/4051) | 2026-06-09 |
+| [huggingface/accelerate](https://github.com/huggingface/accelerate) | 10k | [#4051 DOC: document missing parameters in load_accelerator_state, find_executable_batch_size, and send_to_device](https://github.com/huggingface/accelerate/pull/4051) | 2026-06-09 |
 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | 9.7k | [#5055 fix: avoid blocking the event loop in async update_model_type](https://github.com/xorbitsai/inference/pull/5055) | 2026-06-20 |
 | [ogx-ai/ogx](https://github.com/ogx-ai/ogx) | 8.5k | [#6226 fix(vector_stores): finish in-flight expired file batch cleanup on provider shutdown](https://github.com/ogx-ai/ogx/pull/6226) | 2026-11-06 |
 | [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) | 8.1k | [#1373 Remove the query logger when the query_logger() block raises](https://github.com/MagicStack/asyncpg/pull/1373) | 2026-09-29 |
@@ -51,7 +51,8 @@ Pull requests I've had merged into other people's projects, reviewed and merged 
 | [celery/billiard](https://github.com/celery/billiard) | 437 | [#466 Raise ValueError when using a closed Queue](https://github.com/celery/billiard/pull/466) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 437 | [#467 Refuse to close a Process that is still running](https://github.com/celery/billiard/pull/467) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 437 | [#465 Reject a non-positive maxtasksperchild in Pool](https://github.com/celery/billiard/pull/465) | 2026-09-30 |
-| [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | 397 | [#404 docs: point the examples npm scripts at build_docs.py](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/404) | 2026-11-14 |
+| [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | 398 | [#404 docs: point the examples npm scripts at build_docs.py](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/404) | 2026-11-14 |
+| [Juneo-Lab/decision-forge](https://github.com/Juneo-Lab/decision-forge) | 352 | [#88 Reject non-array events and targets files with a one-line error](https://github.com/Juneo-Lab/decision-forge/pull/88) | 2026-11-22 |
 | [weaviate/weaviate-python-client](https://github.com/weaviate/weaviate-python-client) | 230 | [#2104 Fix event-loop-blocking `time.sleep` in async `wait_for_weaviate`](https://github.com/weaviate/weaviate-python-client/pull/2104) | 2026-07-27 |
 | [mercari/pipeline](https://github.com/mercari/pipeline) | 80 | [#122 fix: correct millis-to-micros conversion for Avro timestamp-millis in Document conversion](https://github.com/mercari/pipeline/pull/122) | 2026-08-16 |
 | [mercari/pipeline](https://github.com/mercari/pipeline) | 80 | [#119 fix: preserve microsecond precision for Avro timestamp-micros in JDBC…](https://github.com/mercari/pipeline/pull/119) | 2026-08-05 |
@@ -67,7 +68,6 @@ Pull requests I've had merged into other people's projects, reviewed and merged 
 |---|---|---|
 | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | [#4718 fix(openai): return unparseable raw responses untraced in the Responses wrapper](https://github.com/traceloop/openllmetry/pull/4718) | 2026-11-19 |
 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | [#92 Restore spaces between words and numbers in scored interfaces](https://github.com/TIGER-AI-Lab/WebsiteBench/pull/92) | 2026-11-17 |
-| [Juneo-Lab/decision-forge](https://github.com/Juneo-Lab/decision-forge) | [#88 Reject non-array events and targets files with a one-line error](https://github.com/Juneo-Lab/decision-forge/pull/88) | 2026-11-17 |
 | [jax-ml/jax](https://github.com/jax-ml/jax) | [#42553 Handle zero-size matrices in matrix_rank, sqrtm, rsf2csf and solve_sy…](https://github.com/jax-ml/jax/pull/42553) | 2026-11-12 |
 | [dask/dask](https://github.com/dask/dask) | [#12709 Fix min/max/nanmin/nanmax on N-d arrays with zero-length chunks](https://github.com/dask/dask/pull/12709) | 2026-11-11 |
 | [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) | [#3520 Count tied scores as misordered pairs in multilabel_ranking_loss](https://github.com/Lightning-AI/torchmetrics/pull/3520) | 2026-09-29 |
@@ -104,11 +104,10 @@ Pull requests I've had merged into other people's projects, reviewed and merged 
 | [dask/dask](https://github.com/dask/dask) | [#12482 Preserve extension dtype in str.split(expand=True) (fixes #11884)](https://github.com/dask/dask/pull/12482) | 2026-07-01 |
 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | [#1342 fix: avoid blocking the event loop during OAuth token exchange](https://github.com/khoj-ai/khoj/pull/1342) | 2026-06-12 |
 | [jina-ai/serve](https://github.com/jina-ai/serve) | [#6243 fix: use await asyncio.sleep instead of blocking time.sleep in async voter retry](https://github.com/jina-ai/serve/pull/6243) | 2026-06-12 |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | [#7825 fix: keep a strong reference to the websocket stream task in autogen-studio](https://github.com/microsoft/autogen/pull/7825) | 2026-06-11 |
 | [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#2757 Replace deprecated asyncio.get_event_loop() with get_running_loop()](https://github.com/vibrantlabsai/ragas/pull/2757) | 2026-06-01 |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | [#8183 fix: retain async trace-export tasks and use get_running_loop in span exporter](https://github.com/agno-agi/agno/pull/8183) | 2026-05-31 |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | [#29162 fix: remove duplicate "Logging" in W&B integration log message](https://github.com/BerriAI/litellm/pull/29162) | 2026-05-28 |
 | [huggingface/datasets](https://github.com/huggingface/datasets) | [#8223 DOC: document missing save_infos and max_depth parameters](https://github.com/huggingface/datasets/pull/8223) | 2026-05-27 |
 | [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | [#2964 fix(logging): use RANK env var in log_rank_zero before dist init](https://github.com/meta-pytorch/torchtune/pull/2964) | 2026-05-22 |
 
-<sub>Updated 2026-11-20 from the GitHub API by `update.py`.</sub>
+<sub>Updated 2026-11-22 from the GitHub API by `update.py`.</sub>
