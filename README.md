@@ -2,14 +2,14 @@
 
 Pull requests I've had merged into other people's projects, reviewed and merged by their maintainers.
 
-**53 merged PRs** across **32 organizations** and **38 repositories** with **487.6k** combined GitHub stars.
+**53 merged PRs** across **32 organizations** and **38 repositories** with **487.8k** combined GitHub stars.
 
 ## Merged
 
 | Project | Stars | Pull request | Merged |
 |---|---|---|---|
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 79.9k | [#6135 fix: avoid blocking the event loop with time.sleep in async load_checkpoint](https://github.com/unslothai/unsloth/pull/6135) | 2026-06-11 |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 69.3k | [#5302 fix: replace mutable default arguments with `None` sentinels (B006)](https://github.com/mem0ai/mem0/pull/5302) | 2026-06-04 |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 80k | [#6135 fix: avoid blocking the event loop with time.sleep in async load_checkpoint](https://github.com/unslothai/unsloth/pull/6135) | 2026-06-11 |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 69.4k | [#5302 fix: replace mutable default arguments with `None` sentinels (B006)](https://github.com/mem0ai/mem0/pull/5302) | 2026-06-04 |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | 43.3k | [#8186 fix: use async Attachment.read() instead of blocking requests.get in Discord client](https://github.com/agno-agi/agno/pull/8186) | 2026-06-01 |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | 43.3k | [#8161 fix: close audio file handle in `OpenAITools.transcribe_audio` (resource leak)](https://github.com/agno-agi/agno/pull/8161) | 2026-06-01 |
 | [agno-agi/agno](https://github.com/agno-agi/agno) | 43.3k | [#8158 fix: replace blocking `time.sleep` with `await asyncio.sleep` in `_async_create_collection_and_scope`](https://github.com/agno-agi/agno/pull/8158) | 2026-05-30 |
@@ -46,8 +46,8 @@ Pull requests I've had merged into other people's projects, reviewed and merged 
 | [joblib/loky](https://github.com/joblib/loky) | 631 | [#668 Report os.pipe() errors from Popen._launch instead of UnboundLocalError](https://github.com/joblib/loky/pull/668) | 2026-09-30 |
 | [microsoft/semantic-link-labs](https://github.com/microsoft/semantic-link-labs) | 600 | [#1368 Read the JSON body in get_published/staging_spark_compute](https://github.com/microsoft/semantic-link-labs/pull/1368) | 2026-11-16 |
 | [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) | 536 | [#1896 fix: Detect NOT NULL columns in Spanner schema validation](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1896) | 2026-11-19 |
-| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 471 | [#594 fix(geo): report a missing member in *BYMEMBER searches instead of crashing](https://github.com/cunla/fakeredis-py/pull/594) | 2026-09-30 |
-| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 471 | [#593 fix(bitmap): pad BITOP operands and treat missing keys as empty](https://github.com/cunla/fakeredis-py/pull/593) | 2026-09-30 |
+| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 472 | [#594 fix(geo): report a missing member in *BYMEMBER searches instead of crashing](https://github.com/cunla/fakeredis-py/pull/594) | 2026-09-30 |
+| [cunla/fakeredis-py](https://github.com/cunla/fakeredis-py) | 472 | [#593 fix(bitmap): pad BITOP operands and treat missing keys as empty](https://github.com/cunla/fakeredis-py/pull/593) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 437 | [#466 Raise ValueError when using a closed Queue](https://github.com/celery/billiard/pull/466) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 437 | [#467 Refuse to close a Process that is still running](https://github.com/celery/billiard/pull/467) | 2026-09-30 |
 | [celery/billiard](https://github.com/celery/billiard) | 437 | [#465 Reject a non-positive maxtasksperchild in Pool](https://github.com/celery/billiard/pull/465) | 2026-09-30 |
@@ -110,4 +110,4 @@ Pull requests I've had merged into other people's projects, reviewed and merged 
 | [huggingface/datasets](https://github.com/huggingface/datasets) | [#8223 DOC: document missing save_infos and max_depth parameters](https://github.com/huggingface/datasets/pull/8223) | 2026-05-27 |
 | [meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune) | [#2964 fix(logging): use RANK env var in log_rank_zero before dist init](https://github.com/meta-pytorch/torchtune/pull/2964) | 2026-05-22 |
 
-<sub>Updated 2026-11-22 from the GitHub API by `update.py`.</sub>
+<sub>Updated 2026-11-23 from the GitHub API by `update.py`.</sub>
